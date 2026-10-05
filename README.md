@@ -58,10 +58,6 @@ I work with things such as:
 I'm constantly experimenting with new technologies, improving my existing projects and building tools that make development easier.
 
 
-### 📊 GitHub Stats
-
-![GitHubCard profile card for sousateew](https://githubcard.com/gbe21.svg?d=lIRl8pOOrSyv)
-
 ### 📫 Contact
 
 <p align="left">
